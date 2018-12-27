@@ -10,13 +10,13 @@ import XCTest
 @testable import DemoAlgorithm
 
 class DemoAlgorithmTests: XCTestCase {
-
+    
     var testArray: Array<Int>!
     
     override func setUp() {
-        testArray = UnitTestTool.generateRandom(count: 2000)
+        testArray = UnitTestTool.generateRandom(count: 5000)
     }
-
+    
     override func tearDown() {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
@@ -37,5 +37,17 @@ class DemoAlgorithmTests: XCTestCase {
         self.measure({
             let _ = testArray.selectionSort()
         })
+    }
+    
+    func test_mergeSort() {
+        self.measure {
+            let _ = UnitTestTool.mergeSortBottomUp(testArray, <)
+        }
+    }
+    
+    func test_quickSort() {
+        self.measure {
+            let _ = UnitTestTool.quicksort(testArray)
+        }
     }
 }
