@@ -32,8 +32,10 @@ A sample swift algorithm project
 
 3. SelectionSort
 
-4. MergeSort
+4. MergeSort: 
 
-5. QuickSort
+5. QuickSort: [link](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Quicksort)
+
+[相關連結](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 
 ## [Swift algorithm club](https://github.com/raywenderlich/swift-algorithm-club)
