@@ -34,4 +34,6 @@ A sample swift algorithm project
 
 4. MergeSort
 
+5. QuickSort
+
 ## [Swift algorithm club](https://github.com/raywenderlich/swift-algorithm-club)
