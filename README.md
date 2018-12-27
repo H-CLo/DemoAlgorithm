@@ -26,16 +26,16 @@ A sample swift algorithm project
 
 ## [Basic Sorting Algorithms with Swift](https://medium.com/swift-algorithms-data-structures/basic-sorting-algorithms-with-swift-a482a0e0649f)
 
-1. InsertionSort
+1. InsertionSort: http://alrightchiu.github.io/SecondRound/comparison-sort-insertion-sortcha-ru-pai-xu-fa.html
 
-2. BubbleSort
+2. BubbleSort: https://github.com/raywenderlich/swift-algorithm-club/tree/master/Bubble%20Sort
 
-3. SelectionSort
+3. SelectionSort: [https://github.com/raywenderlich/swift-algorithm-club/tree/master/Selection%20Sort](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Selection%20Sort)
 
-4. MergeSort: 
+4. MergeSort: [http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 
-5. QuickSort: [link](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Quicksort)
+5. QuickSort: [https://github.com/raywenderlich/swift-algorithm-club/tree/master/Quicksort](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Quicksort)
 
-[相關連結](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
+6. HeapSort: [http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
 
 ## [Swift algorithm club](https://github.com/raywenderlich/swift-algorithm-club)
